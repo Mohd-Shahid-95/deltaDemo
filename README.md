@@ -1,2 +1,2 @@
-# detaDemo
+# deltaDemo
 This for delta-Demo
